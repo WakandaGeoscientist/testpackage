@@ -6,7 +6,7 @@ setup(
     author='David Nworie',
     author_email='dcnworie@mines.edu',
     packages=['testpackage'],
-    url='http://pypi.python.org/pypi/testpackage/',
+    url='https://github.com/WakandaGeoscientist/testpackage',
     license='LICENSE.txt',
     description='Your first package.',
     long_description=open('README.txt').read(),
