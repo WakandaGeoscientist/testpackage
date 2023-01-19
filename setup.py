@@ -9,6 +9,6 @@ setup(
     url='https://github.com/WakandaGeoscientist/testpackage',
     license='LICENSE.txt',
     description='Your first package.',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
     install_requires=[],#Add any dependencies and versions.
     )
